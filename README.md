@@ -1,7 +1,7 @@
 # CamTwist-LUT
 LUT Effect for CamTwist (MacOS)
 
-This CamTwist Effect allows you to apply 3D Look-up Tables (LUT's) for Color Grading to your videos. CamTwist effects are built on Quartz Composers, so this utilizes the Apple Core Image filter to apply the LUT to the image. Credit to [@YuAo](https://github.com/YuAo) for use of his [YUCIColorLookup.cikernal](https://github.com/YuAo/Vivid/blob/master/Sources/YUCIColorLookup.cikernel) used in the Quartz Composer file. Note that this only allows you to use an LUT PNG file. You'll need to [convert your CUBE or 3D LUT to a PNG](https://streamshark.io/obs-guide/converting-cube-3dl-lut-to-image) using this [reference image](https://github.com/YuAo/Vivid/blob/master/Sources/YUCIColorLookupTableDefault.png). I've included a few converted PNG's based on publicly available free LUT's (see credits below).
+This [CamTwist](http://camtwiststudio.com/) Effect allows you to apply 3D Look-up Tables (LUT's) for Color Grading to your videos. CamTwist effects are built on Quartz Composers, so this utilizes the Apple Core Image filter to apply the LUT to the image. Credit to [@YuAo](https://github.com/YuAo) for use of his [YUCIColorLookup.cikernal](https://github.com/YuAo/Vivid/blob/master/Sources/YUCIColorLookup.cikernel) used in the Quartz Composer file. Note that this only allows you to use an LUT PNG file. You'll need to [convert your CUBE or 3D LUT to a PNG](https://streamshark.io/obs-guide/converting-cube-3dl-lut-to-image) using this [reference image](https://github.com/YuAo/Vivid/blob/master/Sources/YUCIColorLookupTableDefault.png). I've included a few converted PNG's based on publicly available free LUT's (see credits below).
 
 **Installation & Use Instructions**
 1. Place the "LUT.qtz" file under CamTwist>Effects

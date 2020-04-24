@@ -16,4 +16,4 @@ CamTwist doesn't seem to be in active development anymore but is still a very ve
 - [@YuAo](https://github.com/YuAo) for use of his [YUCIColorLookup.cikernal](https://github.com/YuAo/Vivid/blob/master/Sources/YUCIColorLookup.cikernel)
 - [RocketStock](https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/) for the 35 free LUT's converted to PNG
 - [Lutify.me and Skylum](https://skylum.com/luminar/marketplace/luts/6) Free LUT's
-- [Richard Harrington and Skylum] (https://skylum.com/luminar/marketplace/luts/7) Free LUT's
+- [Richard Harrington and Skylum](https://skylum.com/luminar/marketplace/luts/7) Free LUT's
